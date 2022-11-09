@@ -99,3 +99,7 @@ You can continue to play with it by input `yes`
 ├── config.py
 ├── data_analysis.ipynb    //some analysis of the input data
 ```
+
+# Credits
+
+[Yihan Zhong](https://github.com/YIHAN-ZHONG)
